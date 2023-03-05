@@ -1,0 +1,11 @@
+.trending-icon1 {
+  color: greenyellow;
+  height: 45px;
+  width: 30px;
+  margin-top: 1.8%;
+  margin-left: 1%;
+}
+.logout-btns {
+  display: flex;
+  flex-direction: row;
+}

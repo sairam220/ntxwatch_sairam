@@ -1,0 +1,70 @@
+.video-container1 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+
+  padding-top: 3%;
+}
+.player {
+  width: 90%;
+}
+.hr {
+  width: 60%;
+}
+.home-container1 {
+  display: flex;
+  flex-direction: row;
+}
+.channel-card-details1 {
+  display: flex;
+  flex-direction: row;
+  margin: 14px;
+  padding-left: 30px;
+}
+button {
+  background-color: transparent;
+  border-width: 0px;
+}
+.button-item {
+  display: flex;
+  flex-direction: row;
+  margin: 14px;
+}
+.buttons-card {
+  display: flex;
+  flex-direction: row;
+  margin-left: 80px;
+}
+.like-btns {
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-between;
+}
+.loader {
+  align-self: center;
+}
+.channel-url-logo {
+  height: 35%;
+  width: 20%;
+  margin: 4px;
+  margin-top: 10px;
+}
+.channel-subscribe {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  margin-left: 20%;
+  margin-top: 2%;
+}
+#liked {
+  color: #3b82f6;
+}
+li {
+  list-style-type: none;
+}
+.like-btn {
+  color: #3b82f6;
+}

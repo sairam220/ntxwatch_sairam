@@ -1,0 +1,49 @@
+.home-container {
+  display: flex;
+  flex-direction: row;
+}
+.video-container {
+  padding-top: 4%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.icon {
+  color: #ffffff;
+  height: 35px;
+  width: 35px;
+  margin-top: 14px;
+}
+.icon3 {
+  height: 35px;
+  width: 35px;
+  margin-top: 14px;
+}
+.failure-image {
+  width: 40%;
+  margin: 20px;
+}
+.input {
+  width: 180px;
+  margin-left: 10px;
+  margin-top: 13px;
+  height: 8%;
+}
+.search-icon {
+  border-style: solid;
+  border-width: 0.1px;
+}
+.input-container {
+  display: flex;
+}
+.theme-btn {
+  margin-bottom: 15px;
+}
+.failure-view {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

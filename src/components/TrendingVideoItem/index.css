@@ -1,0 +1,13 @@
+.trending-video-card {
+  display: flex;
+  flex-direction: row;
+
+  cursor: pointer;
+  text-decoration: none;
+  margin: 20px;
+}
+
+.trnding-thumbnail-image {
+  width: 35%;
+  margin-right: 3%;
+}

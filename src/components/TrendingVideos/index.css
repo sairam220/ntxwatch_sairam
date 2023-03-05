@@ -1,0 +1,10 @@
+.trending {
+  display: flex;
+  flex-direction: column;
+}
+.trending-icon {
+  color: red;
+  height: 30px;
+  width: 30px;
+  margin-top: 2.3%;
+}
